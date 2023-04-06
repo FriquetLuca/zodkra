@@ -13,6 +13,7 @@
     "jsx": "react",
     "target": "es5",
     "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
     "isolatedModules": true,
     "allowSyntheticDefaultImports": true,
     "noUnusedLocals": true,
